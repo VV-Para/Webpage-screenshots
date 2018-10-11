@@ -2,4 +2,4 @@
 环境：Node.js
 依赖包：node-webshot,PhantomJS
 
-##使用方法：
+使用方法：
